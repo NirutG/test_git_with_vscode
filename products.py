@@ -1,3 +1,6 @@
 print('coffee')
 print('tea')
 print('coke')
+print('pepsi')
+print('pepsi')
+print('pepsi')
